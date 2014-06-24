@@ -1,0 +1,5 @@
+Various matlab scripts. These include both a 2D and 3D bouncing ball simulation 
+implemented with basic physics including gravity and friction. Updates in real time. 
+A Billiards simulation that realistically simulates a pool table interaction using the 
+correct physics. And most impressive an image de-noising script that takes an image, adds some noise to it, then 
+diffuses it using the Perona Malik diffusion algorithm to blur it back close to its origin form. 
